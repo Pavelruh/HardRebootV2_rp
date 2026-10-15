@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "hardrebootv2:item/linear_placement_stick"
+  }
+}
