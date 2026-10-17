@@ -1,0 +1,20 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "hardrebootv2:gui/enchanter.png",
+      "ascent": 13,
+      "height": 222,
+      "chars": ["\uE001"]
+    },
+    {
+      "type": "space",
+      "advances": {
+        "\uF801": -1,
+        "\uF808": -8,
+        "\uF820": -32,
+        "\uF880": -128
+      }
+    }
+  ]
+}
