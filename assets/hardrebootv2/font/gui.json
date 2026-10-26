@@ -8,6 +8,13 @@
       "chars": ["\uE001"]
     },
     {
+      "type": "bitmap",
+      "file": "hardrebootv2:gui/blacksmith.png",
+      "ascent": 13,
+      "height": 222,
+      "chars": ["\uE002"]
+    },
+    {
       "type": "space",
       "advances": {
         "\uF801": -1,
